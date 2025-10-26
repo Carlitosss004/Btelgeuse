@@ -1,55 +1,21 @@
-## ¡Hola! Soy [Tu Nombre] 👋✨
+# 💫 About Me:
+* 💻 Soy [Desarrollador/a Full Stack / Estudiante de Ingeniería / etc.]<br>* 🌱 Actualmente estoy aprendiendo [Alguna tecnología, ej: React Native y TypeScript].<br>* 🎨 Me apasiona el [Diseño UI/UX / la Ciberseguridad / la Inteligencia Artificial].<br>* 👯 Busco colaborar en proyectos de [Tipo de proyecto, ej: código abierto, apps móviles].<br>* 💬 Pregúntame sobre [Temas que dominas, ej: Python, JavaScript o Figma].<br>* ⚡ Dato curioso: [Algo divertido o un hobby, ej: Me encanta hacer pan masa madre].
 
-### 🔭 Sobre Mí
 
-* 💻 Soy [Desarrollador/a Full Stack / Estudiante de Ingeniería / etc.]
-* 🌱 Actualmente estoy aprendiendo [Alguna tecnología, ej: React Native y TypeScript].
-* 🎨 Me apasiona el [Diseño UI/UX / la Ciberseguridad / la Inteligencia Artificial].
-* 👯 Busco colaborar en proyectos de [Tipo de proyecto, ej: código abierto, apps móviles].
-* 💬 Pregúntame sobre [Temas que dominas, ej: Python, JavaScript o Figma].
-* ⚡ Dato curioso: [Algo divertido o un hobby, ej: Me encanta hacer pan masa madre].
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Carlitosss004&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Carlitosss004&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlitosss004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🛠️ Mis Herramientas y Tecnologías
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Carlitosss004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📫 ¡Hablemos!
+---
+[![](https://visitcount.itsvg.in/api?id=Carlitosss004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-  <a href="https://linkedin.com/in/[tu-usuario-linkedin]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Tu LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/[tu-usuario-instagram]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tu Instagram" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/[tu-usuario-twitter]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tu Twitter" height="30" width="40" />
-  </a>
-  <a href="https_://[tu-portfolio].com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Tu Portafolio" height="30" width="30" />
-  </a>
-</p>
-
-### 📊 Mis Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-DE-GITHUB]&layout=compact&theme=tokyonight" alt="Top Lenguajes" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
